@@ -1,6 +1,6 @@
 # IR-QLoRA
 
-Created by Haotong Qin, Xudong Ma, Xingyu Zheng, Xiaoyang Li, Yang Zhang, Shouda Liu, Jie Luo, Xianglong Liu and Michele Magno from Beihang University, Bytedance AI Lab, and ETH Zürich.
+Created by Haotong Qin, Xudong Ma, Xingyu Zheng, Xiaoyang Li, Yang Zhang, Shouda Liu, Jie Luo, Xianglong Liu and Michele Magno from Beihang University, Bytedance AI Lab, and ETH Zürich. [[arXiv](https://arxiv.org/abs/2402.05445)]
 
 ## Introduction
 
